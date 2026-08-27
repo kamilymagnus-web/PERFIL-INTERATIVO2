@@ -1,0 +1,27 @@
+.perfil {
+    width: 400px;
+    padding: 20px;
+    background-color: #d3d2d2;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.atualizado {
+    background-color:rgb(175, 207, 128);
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.escuro {
+    background-color: #032929c4;
+    color: white;
+}
+
+.focus {
+    border: 90px solid blue;
+}
+
+.blur {
+    border: 90px solid rgb(0, 0, 0);
+}
