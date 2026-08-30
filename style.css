@@ -13,15 +13,12 @@
     text-align: center;
 }
 
-.escuro {
+.tema-escuro {
     background-color: #032929c4;
     color: white;
 }
 
-.focus {
-    border: 90px solid blue;
+.campoativo {
+    border: 2px solid blue;
 }
 
-.blur {
-    border: 90px solid rgb(0, 0, 0);
-}
