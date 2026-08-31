@@ -36,8 +36,11 @@ camponome.addEventListener (
 camponome.addEventListener(
     "focus", function() {
     camponome.classList.add("campoativo");
+    camponome.style.border = "4px solid #1900ff";
 });
+
 camponome.addEventListener(
     "blur", function() {
     camponome.classList.remove("campoativo");
+    camponome.style.border = "4px solid #757575a2";
 });
